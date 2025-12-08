@@ -1,0 +1,136 @@
+[WORLD LOCATION]
+	Europe
+		Faroe Islands
+			Kalsoy
+				Kallur Lighthouse
+			Mykines
+		Finland
+			Helsinki
+				Suomenlinna
+				Suomenlinna Sea Fortress
+			Lapland
+				Rovaniemi
+		Iceland
+			Austurland Region
+				Breidarmerkurjokull Glacier
+				Djúpivogur
+				Egilsstaðir
+					Hengifoss
+				Falljökull Glacier
+				Fjallsarlon
+					{Fjallsárlón}
+					Fjallsarlon Glacier Lagoon
+						{Fjallsárlón Glacier Lagoon}
+				Gerði
+				Höfn
+				Ingólfshöfdi
+				Jokulsarlon
+					{Jökulsárlón}
+					Jokulsarlon Beach
+						{Jökulsárlón Beach}
+						{Iceberg Graveyard}
+					Jokulsarlon Glacier Lagoon
+						{Jökulsárlón Glacier Lagoon}
+				Oraefajokull Glacier
+				Skaftafell
+					Svartifoss
+				Stokksnes
+				Svínafellsjökull Glacier
+				Vatnajökull Glacier
+			Hellnar
+			Hofudborgarsvaedi Region
+				{Höfuðborgarsvæði Region}
+				Reykjavik
+					Reykavic Church
+					Reykavik Docks
+			Nodurland Vestra Region
+				{Noðurland Vestra Region}
+				Hveravellir
+				Kálfshamarsvík
+				Varmahlíð
+			Norðurland Eystra Region
+				Askja
+				Goðafoss
+				Hvitsurkur
+				Jökulsárgljúfur National Park
+					Dettifoss
+					Hljóðaklettar
+					Selfoss
+				Mývatn
+					Krafla
+						Leirhnjúkur
+					Námafjall
+				Sprengisandur Route
+					Aldeyjarfoss
+				Þeistareykir
+			Sudurland Region
+				{Suðurland Region}
+				Bláhylur
+				Eldhraun
+				Fagrifoss
+				Fjadrargljufur
+				Fjallabak Nature Reserve
+					Hnausapollur
+				Foss á Síðu
+				Háifoss
+				Katla
+				Kerlingarfjöll
+				Kirkjufjara
+				Landmannalaugar
+				Langisjór
+				Ljotipollur
+				Mogilshofdi
+				Raudufossa
+				Reynisfjara
+				Sandfell
+				Seljalandsfoss and Gljúfrafoss
+					Gljufrafoss
+						{Gljúfrafoss}
+					Seljalandsfoss
+				Skogafoss
+					{Skógafoss}
+				Solheimajokull Glacier
+					{Sólheimajökull}
+					{Sólheimajökull Glacier}
+					{Solheimajokull}
+				Thingvellir National Park
+					{Þingvellir National Park}
+					{Þingvellir}
+					{Thingvellir}
+					Geysir
+					Gullfoss
+					Oxararfoss
+						{Öxarárfoss}
+				Urriðafoss
+				Veiðivötn
+				Vik
+					Dyrhólaey
+					Reynisdrangar
+			Svournes Region
+				Reykjanestá
+			Vestfirdir Region
+				{Vestfirðir Region}
+				Hornstrandir
+					Hornvik
+				Isafjordur
+				Látrabjarg
+			Vesturland Region
+				Barnafoss
+				Berserkjahraun
+				Berserkjarhrauan
+				Búðir
+				Hellnar
+				Hraunfossar
+				Snæfellsnes Peninsula
+					Arnastapi
+						Lóndrangar
+							Gatklettur
+					Djúpalónssandur
+					Hólahólar
+					Hraunsfjörður
+					Kirkjufellsfoss
+					Malarrif
+					Stykkisholmur
+						{Stykkishólmur}
+		Norway
+			Oslo
