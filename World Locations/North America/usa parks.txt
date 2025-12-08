@@ -1,0 +1,90 @@
+[WORLD LOCATION]
+	North America
+		USA
+			[US Parks Systems]
+				National Parks Service
+					{NPS}
+					{US NPS}
+					Antietam
+					Arches National Park
+						Delicate Arch
+					Blue Ridge Parkway
+					Bryce Canyon National Park
+						{Byrce Canyon}
+					C&O Canal
+					Canyonlands National Park
+						Mesa Arch
+					Death Valley National Park
+						{Death Valley}
+						Badwater
+							Badwater Basin
+							Devil's Golf Course
+						Dante's View
+						Mesquite Flat Sand Dunes
+						Zabriskie Point
+					Delaware Water Gap National Recreational Area
+						{Delaware Water Gap}
+						Raymondskill Falls
+					Grand Canyon National Park
+						{Grand Canyon}
+						Deer Creek Falls
+						Elves Chasm
+						Havasu Area
+							Havasu Creek
+						Matkatamiba Canyon
+						Redwall Cavern
+						Shinumo Creek
+						Trinity Creek
+					Grand Teton National Park
+						{GTNP}
+					Great Falls
+					Great Smoky Mountains National Park
+						{Great Smoky Mountains}
+						{GRSM}
+						Central Drive
+							Clingmans Dome
+							Newfound Gap
+						Deep Creek
+							Indian Creek Falls
+							Juney Whank Falls
+								{Juney Whank}
+							Tom Branch Falls
+					Hawaii Volcano National Park
+					Mount Rainier
+						Mt Rainier
+					Olympic National Park
+						Hoh Rain Forest
+					Yellowstone National Park
+						{Yellowstone}
+					Yosemite National Park
+						{Yosemite}
+						Bridalveil Creek
+						Bridalveil Fall
+						Cascade Falls
+						El Capitan
+						Half Dome
+						Mirror Lake
+						Olmsted Point
+						Three Brothers
+						Tunnel View
+						Yosemite Falls
+					Zion National Park
+				US Forrest Service
+					{USFS}
+					Inyo National Forrest
+						Ancient Bristlecone Pine Forest
+						Convict Lake
+						John Muir Wilderness
+							McGee Creek
+						June Lake Area
+							June Lake
+							Silver Lake
+						Mammoth Lakes
+							Earthquake Fault
+						Reds Meadow Valley
+							Minaret Vista
+							Sotcher Lake
+						Rock Creek
+					Mt St Helens
+					Olympic National Forest
+					Quinault Rain Forest
