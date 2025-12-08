@@ -1,0 +1,308 @@
+[WORLD LOCATION]
+	North America
+		USA
+			Florida
+				FL
+				Gainesville
+				St. Augustine
+			Hawaii
+				Big Island
+					Akaka Falls
+						{Akaka Falls State Park}
+					Umauma Falls
+				Hawaii State Parks
+					Lava Tree State Monument
+				Hilo
+					Hawaii Tropical Botanical Garden
+				Honolulu
+				Kauai
+					Kauai Waterfalls
+						Opaeka'a Falls
+							{Opaekaa Falls}
+							{Opaekaa}
+						Wailua Falls
+							{Wailua}
+					Poipu
+				Luau
+				Maui
+					Haleakala
+				Niihau
+			Mid-Atlantic
+				Delaware River
+				New Jersey
+					{NJ}
+					NJ
+					Ocean City
+						OCNJ
+				New York
+					Long Island
+				Pennsylvania
+					{PA}
+					Allentown
+						Dutch Springs
+					Bethlehem
+						{Bethlehem PA}
+						Bethlehem Steel Factory
+						Steel Stacks
+					Bryn Artyn
+					Bucks County Parks
+						Peace Valley Park
+					Bushkill
+						Bushkill Falls
+					Collegeville
+						{Collegeville PA}
+						Ursinus College
+					Delaware Water Gap
+					Hawk Mountain
+					Jim Thorpe
+					Kutztown
+						{Kutztown PA}
+						Kutztown Pennsylvania Dutch Festival
+					Lansdale
+					Lehigh Gap
+					Longwood
+					Longwood Gardens
+					PA
+					Pennsylvania State Parks
+						Green Lane Park
+						Hickory Run
+							{Hickory Run State Park}
+						High Rock State Park
+							{High Rock}
+						Jacobsburg State Park
+						Lehigh Gorge State Park
+							{Lehigh Gorge}
+							Glen Onoko
+						Nockamixon State Park
+						Ricketts Glen State Park
+							{Ricketts Glen}
+						Ridley Creek State Park
+						Ringing Rocks Park
+							{Ringing Rocks}
+					Philadelphia
+			New England
+				Maine
+					Camden Maine
+						Camden Harbor
+					Lincolnville
+					Owl's Head
+						{Owl's Head Maine}
+					Port Clyde
+					Port Clyde Maine
+					Rockport
+					Rockport Maine
+				Massachusetts
+					Cape Cod
+					MA
+			[North West]
+				PNW
+					{Pacific Northwest}
+					Oregon
+						{OR}
+						Bandon
+							Bandon Beach
+						Boiler Bay
+						Cannon Beach
+						Columbia Gorge
+						Depoe Bay
+						Ecola Point
+						Haceta Head
+						Hug Point
+						Neptune State Scenic Viewpoint
+						OR
+						Portland OR
+							Elowah Falls
+							Multnomah Falls
+						Seal Rocks
+						Shore Acres
+						Silverton
+							Silver Falls State Park
+						Strawberry Hill
+						Whale Cove
+						Yachats
+					Washington
+						Cougar Park
+						Crystal Mountain
+						Deception Pass
+						Seattle
+							12th man
+							Discovery Park
+							Kerry Park
+							Lake Union
+							SeaFair
+							Seattle Center
+								EMP Museum
+								Space Needle
+							Seattle Japanese Gardens
+							South Lake Union
+							Volunteer Park
+							Washington Park
+						Stevens Pass
+						WA
+				Wyoming
+					Jackson Hole
+					Jackson Lake
+					WY
+			Ohio
+				{OH}
+				OH
+				Ohio State Parks
+					Hocking Hills
+						{Hocking Hills State Park}
+						Ash Cave
+						Cedar Falls
+						Conkles Hollow
+						Lake Logan
+						Old Man's Cave
+							{Old Man Cave}
+						Rock House
+			South Atlantic
+				Delaware
+					{DE}
+				Maryland
+					{MD}
+					Annapolis
+					MD
+					Sharpsburg
+				North Carolina
+					{NC}
+					Asheville
+					Charlotte
+						{Charlotte NC}
+						Charlotte Airport
+							{Charlotte/Douglas Airport}
+							{Charlotte/Douglas International Airport}
+							{CLT}
+							{KCLT}
+					NC
+					North Carolina State Park
+						Mount Mitchell State Park
+							{Mount Mitchell}
+							Mount Mitchell
+							Roaring Fork Falls
+				South Carolina
+					{SC}
+					Charleston
+						{Charleston SC}
+						Boone Plantation
+						Charleston Tea Plantation
+					South Carolina State Park
+						{South Carolina State Parks}
+						{SCSP}
+						Caesars Head
+							{Caesars Head State Park}
+						Dreher Island
+							{Dreher Island State Park}
+						Lansford Canal
+							{Lansford Canal State Park}
+						Raven Cliff Falls
+							{Raven Cliff Falls State Park}
+				Virginia
+					{VA}
+					Charlottesville
+						Michie Tavern
+						Monticello
+					Dulles
+					Fairfax Co VA
+						Scott's Run Nature Preserve
+					I64
+						Interstate-64
+					Leesburg
+					Manassas
+					McLean
+					Natural Bridge VA
+						Foamhenge
+						Natural Bridge
+					Near Reston
+						Burke Lake
+						NVRPA
+							Ball's Bluff Regional Park
+							Meadowlark Gardens
+							Red Rock Overlook Regional Park
+					Reston
+					[State and Regional Parks]
+						Algonkian Park
+						Difficult Run Trail
+						Sky Meadows
+					VA
+					Williamsburg
+				Washington DC
+					DC
+						Smithsonian
+							Air and Space
+							Haupte Garden
+					Georgetown
+					Lincoln Memorial
+					Nationals
+					Reflecting Pool
+					Tidal Basin
+					Washington Monument
+				West Virginia
+					{WV}
+					{WVa}
+					Harper's Ferry
+			South West
+				Arizona
+					Colorado River
+					Grand Canyon
+						Grand Canyon raft trip
+					Hover Dam
+				Colorado
+					CO
+					Vail
+				Utah
+					{UT}
+					Moab
+					Monument Valley
+					Peek-a-Boo Slot Canyons
+						{Peek-a-Boo}
+					UT
+					Utah State Park
+						Coral Pink Sand Dunes State Park
+							{Coral Pink Sand Dunes}
+						Dead Horse Point State Park
+						Kodachrome Basin State Park
+							{Kodachrome Basin}
+			Tennessee
+				{TN}
+				TN
+			[West]
+				California
+					{CA}
+					Big Sur
+						Pfeiffer State Park
+							{Pfeiffer Big Sur State Park}
+							McWay Falls
+					Bodie
+					Carmel
+						{Carmel-by-the-Sea}
+					Death Valley
+					Eastern Sierras
+						Alabama Hills
+					Hollywood
+						Grauman's Chinese Theater
+						Walk of Fame
+					Lee Vining
+						Lundy
+						Mono Lake
+							North Tufa
+							South Tufa
+					Manhattan Beach
+					Monterey
+						Bixby Bridge
+							{Bixby Creek Bridge}
+					Napa Valley
+					San Francisco
+						Alcatraz
+						Golden Gate Bridge
+						Lombard St
+						Marin Headlands
+					Sausalito
+					Torrance
+				Nevada
+					{NV}
+					Nevada State Parks
+						Valley of Fire
+							{Valley of Fire State Park}
+					Vegas
+						{Las Vegas}
