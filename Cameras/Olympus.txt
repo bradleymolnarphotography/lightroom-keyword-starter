@@ -1,0 +1,10 @@
+[CAMERAS]
+	Olympus
+		[Olympus Digital PEN]
+			Pen Light 2 - EPL2
+				{EPL2}
+				{Pen Light 2}
+		[Olympus Tough Series]
+			Tough TG-4
+				{TG-4}
+				{Olympus Tough TG-4}

@@ -1,0 +1,7 @@
+[CAMERAS]
+	Zenit
+		{Zenith}
+		{Зени́т}
+		Zenit-3
+			{Zenith-3}
+			{Зени́т-3}
